@@ -2,7 +2,7 @@
 Imaging-based titration software for GFP-Celltag lentivirus
 
 ### Description
-This repository contains a python scripts required for titering for GFP-CellTag Virus.
+This repository contains a python script required for titering for GFP-CellTag Virus.
 For a detailed explanation, please refer to the paper: Guo et. al., CellTag Indexing: a genetic barcode-based multiplexing tool for single-cell technologies, bioRxiv, 2018 (new version under review).
 
 For the CellTag experiment, titration of CellTag-lentivirus is required.
@@ -24,11 +24,11 @@ seaborn >= 0.9.0
 #### CellTag transduction 
 For the detailed information about the CellTag-lentivirus transduction, please refer to the paper; Guo et. al., CellTag Indexing: a genetic barcode-based multiplexing tool for single-cell technologies, bioRxiv, 2018 (new version under review).
 
-#### Image qcquisition
+#### Image acquisition
 Images are acquired after trypsin treatment. 
 Treat cells with trypsin or a reagent for cell dissociation. Please make sure that all cells are completely dissociated.
 Load cell suspension into a hemocytometer. Cell suspension can also be placed on a cell dish instead of using hemocytometer.
-Take pictures of the cells using microscope. This script recquires two kinds 2 types of images: an image in acquired in the bright field and an image of GFP fluorescent signal. Please see the example images in - https://github.com/morris-lab/CellTag-Titration/tree/master/test_data.
+Take pictures of the cells using a microscope. This script requires two kinds 2 types of images: an image in acquired in the bright field and an image of GFP fluorescent signal. Please see the example images in - https://github.com/morris-lab/CellTag-Titration/tree/master/test_data.
 Please use 4x~10x objective lens. The magnification should be small to acquire a large number of cells per image.
 
 
