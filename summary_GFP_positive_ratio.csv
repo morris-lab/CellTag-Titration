@@ -1,0 +1,7 @@
+file_path_Green,GFP_positive_ratio
+./test_data/control1_gfp.JPG,0.03125
+./test_data/control2_gfp.JPG,0.02962962962962963
+./test_data/sample1_gfp.JPG,0.32116788321167883
+./test_data/sample2_gfp.JPG,0.2622601279317697
+./test_data/sample3_gfp.JPG,0.75390625
+./test_data/sample4_gfp.JPG,0.7490421455938697
