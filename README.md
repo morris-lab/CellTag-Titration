@@ -28,7 +28,7 @@ For the information about the detail of CellTag-lentivirus transduction, please 
 Images are acquired after trypsin treatment. 
 Treat cells with trypsin or a reagent for cell dissociation. Please make sure that all cells are completely dissociated.
 Load sample into a hemocytometer. Instead of using hemocytometer, cell suspension can be placed on a cell dish.
-Take pictures of the cells. This script recquires two kinds 2 types of images: an image in acquired in the bright field and an image of GFP fluorescent signal. Please see the sample images in - https://github.com/morris-lab/CellTag-Titer/test_data.
+Take pictures of the cells. This script recquires two kinds 2 types of images: an image in acquired in the bright field and an image of GFP fluorescent signal. Please see the sample images in - https://github.com/morris-lab/CellTag-Titration/tree/master/test_data.
 Please use 4x~10x objective lens. The magnification should be small to acquire a large number of cells per image.
 
 
@@ -44,7 +44,6 @@ Open jupyter notebook.
 jupyter notebook
 ```
 The repository includes sample imaging dataset. 
-Please run the jupyter notebook with this dataset first:  -  https://github.com/morris-lab/CellTag-Titer/Quantify_images_of_trypsinized_cells_to_estimate_GFP_positive_ratio.ipynb.
-
+Please run the jupyter notebook with this dataset first:  -  https://github.com/morris-lab/CellTag-Titration/blob/master/Quantify_images_of_trypsinized_cells_to_estimate_GFP_positive_ratio.ipynb
 
 
