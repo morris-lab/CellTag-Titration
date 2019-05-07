@@ -2,14 +2,14 @@
 Imaging-based titration software for GFP-Celltag lentivirus
 
 ### Description
-This repository contains python scripts required for titering for GFP-CellTag Virus.
+This repository contains a python scripts required for titering for GFP-CellTag Virus.
 For a detailed explanation, please refer to the paper: Guo et. al., CellTag Indexing: a genetic barcode-based multiplexing tool for single-cell technologies, bioRxiv, 2018 (new version under review).
 
 For the CellTag experiment, titration of CellTag-lentivirus is required.
 Accurate assessment of viral titer can be performed via flow cytometry, we also provide an easy titering method based on the quantification of GFP signal with cell images acquired with a fluorescent microscope. Here, GFP positive cell ratio and CellTag virus titer can be easily calculated by quantifying trypsinized cell images.
 
-The script needs python >=3.6.0 and libraries listed below.
-lease install them before running the script.
+The script needs python >=3.6.0 and python libraries listed below.
+lease install them before running script in this repository.
 We recommend to install them using anaconda. 
  
 numpy >= 1.15.4 
